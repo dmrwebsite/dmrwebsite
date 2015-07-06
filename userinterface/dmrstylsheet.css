@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* dotamasterrace style css */
+h1 {
+	top:20px;
+	align:center;
+	color:#B08D56;	
+}
+#banner {
+	background: url(website%20images/dmr%20logo%20banner.png) no-repeat center top;
+	
+	
+}
+	p {	
+		text-align:center;
+		font:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+		font-size: 20px;
+		margin: 0 20%;
+		top: 20px;
+		color:#FFFFFF;
+	}
+	/* pre {
+		margin-left:100px;
+		align-content:center;
+		font:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+		font-size:16px;
+		color:#FFFFFF;
+		margin-top: 35px;
+	} */
+	body{
+		background-color:#000000
+	
+	}
+	#music{
+		position:relative;	
+	}
